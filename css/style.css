@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	text-align: center;
+}
+.header, .hero, .body, .bar, .footer {
+	background-color: #F7AFC8;
+}
+.box {
+	color: #fff;
+	background-color: #98D7E9;
+	margin: 10px 0;
+	border: 3px solid #27AE47;
+}
+.red {
+	background-color: red;
+}
